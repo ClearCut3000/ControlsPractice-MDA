@@ -75,7 +75,7 @@ class ViewController: UIViewController {
     @IBAction func textFielEdited(_ sender: UITextField) {
         number = Int(textField.text ?? "") ?? 128
     }
-    @IBAction func screenTapped(_ sender: UITapGestureRecognizer) {
+    @IBAction func screenTabed(_ sender: UITapGestureRecognizer) {
         let location = sender.location (in: view)
         if location.x < view.bounds.midX {
             number -= 1
