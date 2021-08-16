@@ -37,9 +37,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		360991AA26CAB4D5009ADEC6 /* ScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ScreenShots;
+			sourceTree = "<group>";
+		};
 		3630E67F26C83ECA000D05AE = {
 			isa = PBXGroup;
 			children = (
+				360991AA26CAB4D5009ADEC6 /* ScreenShots */,
 				3630E68A26C83ECA000D05AE /* ControlsPractice */,
 				3630E68926C83ECA000D05AE /* Products */,
 			);
