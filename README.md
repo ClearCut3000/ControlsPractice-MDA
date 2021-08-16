@@ -1,5 +1,5 @@
 # ControlsPractice-MDA
 ## Added a few screenshots.
-![scr001](https://user-images.githubusercontent.com/71184573/129589631-0a852534-2f69-4296-9bb0-b204cc022881.png)
-![scr002](https://user-images.githubusercontent.com/71184573/129589636-c1f11d46-614f-4fad-9134-ea1c60da7234.png)
-![scr003](https://user-images.githubusercontent.com/71184573/129589640-5de12744-6854-4459-8b73-2dffb5cbda3f.png)
+![scr001](https://user-images.githubusercontent.com/71184573/129590268-04937918-9129-4893-86ff-17c863fb5933.png)
+![scr002](https://user-images.githubusercontent.com/71184573/129590273-4cb113a4-8579-414c-ac08-bb9a8f503978.png)
+![scr003](https://user-images.githubusercontent.com/71184573/129590276-cc698ffb-6975-40d3-a86d-b62aeb6565ff.png)
